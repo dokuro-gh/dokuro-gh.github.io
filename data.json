@@ -78,7 +78,6 @@
     },
     "evilolif": {
       "evilolif": [
-        "rKSJC6kF/evilolif.png",
         "prw0KyVC/evilolif-Banana.png",
         "YFFX5zc1/evilolif-Battle-Mage.png",
         "6716Bqbr/evilolif-Blue.png",
@@ -331,7 +330,6 @@
     },
     "evilolif": {
       "evilolif": [
-        "-",
         "Banana",
         "Battle Mage",
         "Blue",
@@ -764,10 +762,6 @@
     },
     "evilolif": {
       "evilolif": [
-        {
-          "icon": "GQKg15GD/base-evilolif.png",
-          "name": "-"
-        },
         {
           "icon": "99H7PYMD/base-evilolif-Banana.png",
           "name": "Banana"
