@@ -1,0 +1,1395 @@
+{
+  "costumes": {
+    "bazooka": {
+      "bazooka": [
+        "jkFf7Zqy/bazooka-Andesinthesky.png",
+        "ynWXKqnS/bazooka-Blue.png",
+        "cBNHPhh/bazooka-Blue-Alt.png",
+        "VWNY1rpy/bazooka-Cotton-Candy.png",
+        "J0qgfqV/bazooka-Crimson-Soldier.png",
+        "dS0mYj9/bazooka-Ekko.png",
+        "tpqy0Zc2/bazooka-Ice-King.png",
+        "vxXyhbjn/bazooka-Magma-Terminator.png",
+        "pvL4F7Kn/bazooka-Queen.png",
+        "RZP6Vkk/bazooka-Toxic.png",
+        "kVcmJz70/bazooka-Veggie.png",
+        "chfsSTxh/bazooka-White.png",
+        "Fq81N9CZ/bazooka-White-Alt.png"
+      ]
+    },
+    "bigb": {
+      "bigb": [
+        "XxsgNVLL/bigb-Armored.png",
+        "hxjNZWfs/bigb-Black.png",
+        "5Wv8nsb5/bigb-Blue.png",
+        "6jhVXnr/bigb-Cotton-Candy.png",
+        "v63m58t0/bigb-elpenpro.png",
+        "dJsbm7LB/bigb-God.png",
+        "zhXBfBwt/bigb-Mafia.png",
+        "KcdWYwqX/bigb-Stone.png"
+      ]
+    },
+    "dai": {
+      "dai": [
+        "XrRg6P9f/dai-Afton.png",
+        "tMVxsWZg/dai-Bloody.png",
+        "JFwmtfYM/dai-Blue.png",
+        "1YdvkVZw/dai-China.png",
+        "7NphkJHw/dai-Cop.png",
+        "TB96KLQx/dai-Cyborg.png",
+        "gZJx9Hwd/dai-Cyborg-Alt.png",
+        "xt3yP8RT/dai-Dante.png",
+        "PvF0FMVt/dai-Diamond.png",
+        "mVH0L2Sg/dai-Gai.png",
+        "N6MnZ81T/dai-Ganster.png",
+        "LmWy1rh/dai-Germanic.png",
+        "VcT8Zn4h/dai-Goth.png",
+        "jvMZy4DG/dai-King.png",
+        "gMx72h29/dai-King-Alt.png",
+        "wrJWW1HL/dai-Knoxenoe.png",
+        "WvF5tyfw/dai-Mafia.png",
+        "nNLwpnzq/dai-Poison-Dart-Frog.png",
+        "tpqBCGQw/dai-Police.png",
+        "DgTcgqTQ/dai-Rick-Astley.png",
+        "RGqt7CCM/dai-Serpent.png",
+        "hR8T83jb/dai-Spy.png",
+        "W42Y10Jz/dai-Summer.png",
+        "Fk6snWbm/dai-Tuxedo.png",
+        "Vp2Y246Z/dai-Water.png",
+        "B2VQdJzG/dai-Wind.png"
+      ]
+    },
+    "emy": {
+      "emy": [
+        "sdhCkT8x/emy-Angel-Demon.png",
+        "LDtnsZ9N/emy-Black-Cherry.png",
+        "RTDrcnwm/emy-Blue.png",
+        "r2t1vNcz/emy-Creepy-Doll.png",
+        "vxzPp8Lh/emy-Forgotten.png",
+        "zh6BqQRJ/emy-Golden.png",
+        "YBZ661Jt/emy-Grey.png",
+        "yBV5s7y1/emy-Orange.png",
+        "wr8Qhk7f/emy-Recolor.png",
+        "DHwLKdfB/emy-Red.png",
+        "sd6C0PzB/emy-Sailor-Fuku.png",
+        "nN32HwpY/emy-Sakura.png",
+        "gLzZ85Vp/emy-Yandere.png"
+      ]
+    },
+    "evilolif": {
+      "evilolif": [
+        "rKSJC6kF/evilolif.png",
+        "prw0KyVC/evilolif-Banana.png",
+        "YFFX5zc1/evilolif-Battle-Mage.png",
+        "6716Bqbr/evilolif-Blue.png",
+        "TBBGMbb1/evilolif-Brown.png",
+        "zDjckLf/evilolif-Business.png",
+        "JwDy1kJ2/evilolif-Cloud.png",
+        "XZ2RCK0B/evilolif-Cotton-Candy.png",
+        "PG4qBTm5/evilolif-Cyberpunk.png",
+        "d4n5T0hG/evilolif-Evil.png",
+        "xtchMqR7/evilolif-Green.png",
+        "RmxJBtL/evilolif-Ice.png",
+        "gbC7g9B7/evilolif-Orange.png",
+        "m5vJZQSJ/evilolif-Santa.png",
+        "m5bj42vq/evilolif-Toxic.png",
+        "x859YpMf/evilolif-Unstable.png"
+      ]
+    },
+    "hunt": {
+      "hunt": [
+        "M0khymx/hunt-1900-s-detective.png",
+        "0pnHJXrk/hunt-Cold.png",
+        "PGT1Q1Mr/hunt-Inverted.png",
+        "5W21dWgb/hunt-Knight.png",
+        "B5Fqp8vD/hunt-One-Piece.png",
+        "XZrQMybQ/hunt-Robotic.png",
+        "xSP45GJH/hunt-Snow.png",
+        "VcpNX9Yx/hunt-Teal.png",
+        "35ThHdL0/hunt-Tuxedo.png",
+        "9my8ZhnL/hunt-Yellow-Hat.png"
+      ]
+    },
+    "janko": {
+      "janko": [
+        "pr333zFy/janko-Atrain.png",
+        "kgbr3qw3/janko-Atrain-2.png",
+        "VWVLdmvW/janko-Golden.png",
+        "vCr3Y300/janko-Golden-Alt.png",
+        "TDYmC7K5/janko-Naked.png",
+        "tP3RhKJ5/janko-Terrorist.png"
+      ]
+    },
+    "jonjon": {
+      "jonjon": [
+        "W7x8H1K/jonjon-Alien.png",
+        "xSdSY4T5/jonjon-Atrain.png",
+        "JFb7b0Hr/jonjon-Cool-Ninaj.png",
+        "k66S51RH/jonjon-Cotton-Candy.png",
+        "KjfsvvhV/jonjon-Demon.png",
+        "ks94gbMP/jonjon-Elegant-Black.png",
+        "53TNsv8/jonjon-Elegant-Blue.png",
+        "rKdV5VHM/jonjon-Elegant-Brown.png",
+        "933DrY0p/jonjon-Elegant-Purple.png",
+        "kgvzG7gW/jonjon-Elegant-Teal.png",
+        "RprCXTTm/jonjon-King.png",
+        "zVSbdrqz/jonjon-Pastel.png",
+        "nqsxHPLN/jonjon-Purple.png",
+        "1trh7nn7/jonjon-Red-Gradient.png",
+        "rGCb4Djw/jonjon-Street-Gang.png",
+        "bg4x2ztZ/jonjon-Welder.png",
+        "q3R1r90k/jonjon-White.png",
+        "q3ptqskf/jonjon-White-Chocolate.png"
+      ]
+    },
+    "magekid": {
+      "magekid": [
+        "fYsMg8sx/magekid-Cotton-Candy.png",
+        "4gNy1WC3/magekid-Dark.png",
+        "PsC3R6Mb/magekid-Fancy.png",
+        "JwvVB5f5/magekid-Gold.png",
+        "spgh0yFr/magekid-Shadow.png"
+      ]
+    },
+    "nero": {
+      "nero": [
+        "ZRPV7hXL/nero-Cyborg.png",
+        "fVYgQNHx/nero-Devil.png",
+        "FLqNh3fv/nero-God-of-the-sun.png",
+        "FL5S27wC/nero-Godzilla.png",
+        "5WXs7XPZ/nero-Gold.png",
+        "21tN5S92/nero-Grey.png",
+        "Qv6W8QqN/nero-Ice-1.png",
+        "Xxk6nFjG/nero-Ice-2.png",
+        "7txqvmHX/nero-Ice-King.png",
+        "93kmXFyQ/nero-Magma.png",
+        "jPq9X16c/nero-Monster.png",
+        "x85H8NVs/nero-Pink.png",
+        "VpYjP38J/nero-Shadow.png"
+      ]
+    },
+    "pboi": {
+      "pboi": [
+        "7x8sTXJX/pboi-Cotton-Candy.png"
+      ],
+      "punk": [
+        "WZsxQ2M/punk-Cyber-Punk.png",
+        "m59Q315T/punk-Flaming-Punk.png",
+        "wZP5PhrY/punk-Luster-Punk.png",
+        "XZv0f300/punk-Moon-Punk.png",
+        "84x87xty/punk-Neon-Alt-Punk.png",
+        "ZpnMjHTc/punk-Neon-Punk.png"
+      ]
+    },
+    "revis": {
+      "revis": [
+        "tp6p4zsR/revis-Angel.png",
+        "gBFRz4s/revis-Blossom.png",
+        "p6qYZyts/revis-Crimson.png",
+        "mVmp8bpL/revis-Crimson-Moon.png",
+        "60qNh0FS/revis-Holy-Mage.png",
+        "4gYxTsth/revis-Mage.png",
+        "ZCB2NLb/revis-Mahou-Shoujo.png",
+        "Nd3n7CBZ/revis-Moon.png",
+        "VpWt32wW/revis-Snow-Queen.png",
+        "WjTKGcK/revis-Stereotypical-Witch.png"
+      ]
+    },
+    "samrival": {
+      "samrival": [
+        "BVtzqMmS/samrival-Atrain.png",
+        "wZPXnDKF/samrival-Blonde.png",
+        "dJkXCGF2/samrival-Bloodlust.png",
+        "bjWNs7PD/samrival-Diamond-Tek.png",
+        "m5PGDcm1/samrival-Fire.png",
+        "9938bKDx/samrival-Ghotic.png",
+        "VWgcXX6g/samrival-Gold.png",
+        "pjzBky4n/samrival-Golden-Katana.png",
+        "wrpryscT/samrival-Green-Phoenix.png",
+        "1fGhhV6m/samrival-Malenia.png",
+        "cSrmFKtc/samrival-Moon.png",
+        "9mK4xDR4/samrival-Sun-Samurai.png",
+        "S74fxWqT/samrival-Teal.png",
+        "vKQRBMK/samrival-Water.png"
+      ]
+    },
+    "samurai": {
+      "samurai": [
+        "Q7n2q9LC/samurai-403.png",
+        "R8d1F6d/samurai-Blue.png",
+        "prMKNMpL/samurai-Emerald.png",
+        "0VjKYdKf/samurai-Golden.png",
+        "9mfWdRy8/samurai-Lightning.png",
+        "VYfNmQvP/samurai-Purple-Golden.png",
+        "P0rZnRb/samurai-Sun.png",
+        "S7QX7p5h/samurai-Toxic.png",
+        "MYTSjCx/samurai-Truffle.png",
+        "F499wZZ9/samurai-Vampiric.png"
+      ]
+    },
+    "sniper": {
+      "sniper": [
+        "4ZHw038G/sniper-Alucard.png",
+        "jP9jmN2t/sniper-Cowboy.png",
+        "VY6h6Zjm/sniper-Magma.png",
+        "wFSbn6YG/sniper-Police.png",
+        "LdjJBV5z/sniper-Unknown.png"
+      ]
+    },
+    "zetoman": {
+      "zetoman": [
+        "GvH49Sqm/zetoman-Dark.png",
+        "Q742nsPT/zetoman-Diamond.png",
+        "mFv7M2G5/zetoman-Elite-Agent.png",
+        "603LRZZh/zetoman-Killing-Machine.png",
+        "3m7Y07m7/zetoman-Rusty.png",
+        "PsFWQRB5/zetoman-Shadow-Reaper.png",
+        "rR3bgpLP/zetoman-Stardust.png",
+        "mCMVN5PY/zetoman-Stardust-2.png",
+        "SDgvfMs5/zetoman-Sun.png",
+        "20tNXTp0/zetoman-The-Cold-Hero.png",
+        "Xr4jy4sM/zetoman-The-Ghost.png"
+      ]
+    }
+  },
+  "names": {
+    "bazooka": {
+      "bazooka": [
+        "Andesinthesky",
+        "Blue",
+        "Blue Alt",
+        "Cotton Candy",
+        "Crimson Soldier",
+        "Ekko",
+        "Ice King",
+        "Magma Terminator",
+        "Queen",
+        "Toxic",
+        "Veggie",
+        "White",
+        "White Alt"
+      ]
+    },
+    "bigb": {
+      "bigb": [
+        "Armored",
+        "Black",
+        "Blue",
+        "Cotton Candy",
+        "God",
+        "Mafia",
+        "Stone",
+        "elpenpro"
+      ]
+    },
+    "dai": {
+      "dai": [
+        "Afton",
+        "Bloody",
+        "Blue",
+        "China",
+        "Cop",
+        "Cyborg",
+        "Cyborg Alt",
+        "Dante",
+        "Diamond",
+        "Gai",
+        "Ganster",
+        "Germanic",
+        "Goth",
+        "King",
+        "King Alt",
+        "Knoxenoe",
+        "Mafia",
+        "Poison Dart Frog",
+        "Police",
+        "Rick Astley",
+        "Serpent",
+        "Spy",
+        "Summer",
+        "Tuxedo",
+        "Water",
+        "Wind"
+      ]
+    },
+    "emy": {
+      "emy": [
+        "Angel Demon",
+        "Black Cherry",
+        "Blue",
+        "Creepy Doll",
+        "Forgotten",
+        "Golden",
+        "Grey",
+        "Orange",
+        "Recolor",
+        "Red",
+        "Sailor Fuku",
+        "Sakura",
+        "Yandere"
+      ]
+    },
+    "evilolif": {
+      "evilolif": [
+        "-",
+        "Banana",
+        "Battle Mage",
+        "Blue",
+        "Brown",
+        "Business",
+        "Cloud",
+        "Cotton Candy",
+        "Cyberpunk",
+        "Evil",
+        "Green",
+        "Ice",
+        "Orange",
+        "Santa",
+        "Toxic",
+        "Unstable"
+      ]
+    },
+    "hunt": {
+      "hunt": [
+        "1900's detective",
+        "Cold",
+        "Inverted",
+        "Knight",
+        "One Piece",
+        "Robotic",
+        "Snow",
+        "Teal",
+        "Tuxedo",
+        "Yellow Hat"
+      ]
+    },
+    "janko": {
+      "janko": [
+        "Atrain",
+        "Atrain 2",
+        "Golden",
+        "Golden Alt",
+        "Naked",
+        "Terrorist"
+      ]
+    },
+    "jonjon": {
+      "jonjon": [
+        "Alien",
+        "Atrain",
+        "Cool Ninaj",
+        "Cotton Candy",
+        "Demon",
+        "Elegant Black",
+        "Elegant Blue",
+        "Elegant Brown",
+        "Elegant Purple",
+        "Elegant Teal",
+        "King",
+        "Pastel",
+        "Purple",
+        "Red Gradient",
+        "Street Gang",
+        "Welder",
+        "White",
+        "White Chocolate"
+      ]
+    },
+    "magekid": {
+      "magekid": [
+        "Cotton Candy",
+        "Dark",
+        "Fancy",
+        "Gold",
+        "Shadow"
+      ]
+    },
+    "nero": {
+      "nero": [
+        "Cyborg",
+        "Devil",
+        "God of the sun",
+        "Godzilla",
+        "Gold",
+        "Grey",
+        "Ice 1",
+        "Ice 2",
+        "Ice King",
+        "Magma",
+        "Monster",
+        "Pink",
+        "Shadow"
+      ]
+    },
+    "pboi": {
+      "pboi": [
+        "Cotton Candy"
+      ],
+      "punk": [
+        "CyberPunk",
+        "Flaming Punk",
+        "Luster Punk",
+        "Moon Punk",
+        "Neon Alt Punk",
+        "Neon Punk"
+      ]
+    },
+    "revis": {
+      "revis": [
+        "Angel",
+        "Blossom",
+        "Crimson",
+        "Crimson Moon",
+        "Holy Mage",
+        "Mage",
+        "Mahou Shoujo",
+        "Moon",
+        "Snow Queen",
+        "Stereotypical Witch"
+      ]
+    },
+    "samrival": {
+      "samrival": [
+        "Atrain",
+        "Blonde",
+        "Bloodlust",
+        "Diamond Tek",
+        "Fire",
+        "Ghotic",
+        "Gold",
+        "Golden Katana",
+        "Green Phoenix",
+        "Malenia",
+        "Moon",
+        "Sun Samurai",
+        "Teal",
+        "Water"
+      ]
+    },
+    "samurai": {
+      "samurai": [
+        "403",
+        "Blue",
+        "Emerald",
+        "Golden",
+        "Lightning",
+        "Purple Golden",
+        "Sun",
+        "Toxic",
+        "Truffle",
+        "Vampiric"
+      ]
+    },
+    "sniper": {
+      "sniper": [
+        "Alucard",
+        "Cowboy",
+        "Magma",
+        "Police",
+        "Unknown"
+      ]
+    },
+    "zetoman": {
+      "zetoman": [
+        "Dark",
+        "Diamond",
+        "Elite Agent",
+        "Killing Machine",
+        "Rusty",
+        "Shadow Reaper",
+        "Stardust",
+        "Stardust 2",
+        "Sun",
+        "The Cold Hero",
+        "The Ghost"
+      ]
+    }
+  },
+  "uiCostumes": {
+    "bazooka": {
+      "bazooka": [
+        {
+          "icon": "7tzqPctb/base-bazooka-Andesinthesky.png",
+          "name": "Andesinthesky"
+        },
+        {
+          "icon": "XfLSwRVG/base-bazooka-Blue.png",
+          "name": "Blue"
+        },
+        {
+          "icon": "Xrv99dH8/base-bazooka-Blue-Alt.png",
+          "name": "Blue Alt"
+        },
+        {
+          "icon": "jv1y82Y6/base-bazooka-Cotton-Candy.png",
+          "name": "Cotton Candy"
+        },
+        {
+          "icon": "XZz7Q5h8/base-bazooka-Crimson-Soldier.png",
+          "name": "Crimson Soldier"
+        },
+        {
+          "icon": "Dg9fr16c/base-bazooka-Ekko.png",
+          "name": "Ekko"
+        },
+        {
+          "icon": "tPXnbNnm/base-bazooka-Ice-King.png",
+          "name": "Ice King"
+        },
+        {
+          "icon": "qMCH88qs/base-bazooka-Magma-Terminator.png",
+          "name": "Magma Terminator"
+        },
+        {
+          "icon": "fd5G7MV1/base-bazooka-Queen.png",
+          "name": "Queen"
+        },
+        {
+          "icon": "sdLZVgXb/base-bazooka-Toxic.png",
+          "name": "Toxic"
+        },
+        {
+          "icon": "Rk0VqtHh/base-bazooka-Veggie.png",
+          "name": "Veggie"
+        },
+        {
+          "icon": "4n3FmYZ5/base-bazooka-White.png",
+          "name": "White"
+        },
+        {
+          "icon": "Lzx17QFH/base-bazooka-White-Alt.png",
+          "name": "White Alt"
+        }
+      ]
+    },
+    "bigb": {
+      "bigb": [
+        {
+          "icon": "RG22BgZP/base-bigb-Armored.png",
+          "name": "Armored"
+        },
+        {
+          "icon": "zhj57MrF/base-bigb-Black.png",
+          "name": "Black"
+        },
+        {
+          "icon": "rfQsGYp7/base-bigb-Blue.png",
+          "name": "Blue"
+        },
+        {
+          "icon": "nMdmNVDW/base-bigb-Cotton-Candy.png",
+          "name": "Cotton Candy"
+        },
+        {
+          "icon": "VZCM5NB/base-bigb-elpenpro.png",
+          "name": "God"
+        },
+        {
+          "icon": "sv5PR229/base-bigb-God.png",
+          "name": "Mafia"
+        },
+        {
+          "icon": "RGp3VxzB/base-bigb-Mafia.png",
+          "name": "Stone"
+        },
+        {
+          "icon": "BK3nhytb/base-bigb-Stone.png",
+          "name": "elpenpro"
+        }
+      ]
+    },
+    "dai": {
+      "dai": [
+        {
+          "icon": "7ttGHmfh/base-dai-Afton.png",
+          "name": "Afton"
+        },
+        {
+          "icon": "DgQ9hjrX/base-dai-Bloody.png",
+          "name": "Bloody"
+        },
+        {
+          "icon": "20xrvCpR/base-dai-Blue.png",
+          "name": "Blue"
+        },
+        {
+          "icon": "GQCjCZp6/base-dai-China.png",
+          "name": "China"
+        },
+        {
+          "icon": "2YYpjk5N/base-dai-Cop.png",
+          "name": "Cop"
+        },
+        {
+          "icon": "dJ2gRQGq/base-dai-Cyborg.png",
+          "name": "Cyborg"
+        },
+        {
+          "icon": "DgzsL14S/base-dai-Cyborg-Alt.png",
+          "name": "Cyborg Alt"
+        },
+        {
+          "icon": "7DrzwBd/base-dai-Dante.png",
+          "name": "Dante"
+        },
+        {
+          "icon": "9HxhhQmJ/base-dai-Diamond.png",
+          "name": "Diamond"
+        },
+        {
+          "icon": "zWQ4yPpt/base-dai-Gai.png",
+          "name": "Gai"
+        },
+        {
+          "icon": "1YNzyHX8/base-dai-Ganster.png",
+          "name": "Ganster"
+        },
+        {
+          "icon": "PzFL2wny/base-dai-Germanic.png",
+          "name": "Germanic"
+        },
+        {
+          "icon": "zhhgGDvb/base-dai-Goth.png",
+          "name": "Goth"
+        },
+        {
+          "icon": "vvqzXJFJ/base-dai-King.png",
+          "name": "King"
+        },
+        {
+          "icon": "wDXQPqc/base-dai-King-Alt.png",
+          "name": "King Alt"
+        },
+        {
+          "icon": "BVvS3L8P/base-dai-Knoxenoe.png",
+          "name": "Knoxenoe"
+        },
+        {
+          "icon": "Zpx3z8qC/base-dai-Mafia.png",
+          "name": "Mafia"
+        },
+        {
+          "icon": "5XhFC06c/base-dai-Poison-Dart-Frog.png",
+          "name": "Poison Dart Frog"
+        },
+        {
+          "icon": "nM2BBCKk/base-dai-Police.png",
+          "name": "Police"
+        },
+        {
+          "icon": "sdrqzV5d/base-dai-Rick-Astley.png",
+          "name": "Rick Astley"
+        },
+        {
+          "icon": "4gKwWsbN/base-dai-Serpent.png",
+          "name": "Serpent"
+        },
+        {
+          "icon": "B9VbTgW/base-dai-Spy.png",
+          "name": "Spy"
+        },
+        {
+          "icon": "JDZkWZD/base-dai-Summer.png",
+          "name": "Summer"
+        },
+        {
+          "icon": "5Xtmzw9r/base-dai-Tuxedo.png",
+          "name": "Tuxedo"
+        },
+        {
+          "icon": "tPcCLpKq/base-dai-Water.png",
+          "name": "Water"
+        },
+        {
+          "icon": "d0QxhKfQ/base-dai-Wind.png",
+          "name": "Wind"
+        }
+      ]
+    },
+    "emy": {
+      "emy": [
+        {
+          "icon": "Zpd2fchb/base-emy-Angel-Demon.png",
+          "name": "Angel Demon"
+        },
+        {
+          "icon": "Sw95LZV3/base-emy-Black-Cherry.png",
+          "name": "Black Cherry"
+        },
+        {
+          "icon": "8n0nTrsK/base-emy-Blue.png",
+          "name": "Blue"
+        },
+        {
+          "icon": "BVvJmPcL/base-emy-Creepy-Doll.png",
+          "name": "Creepy Doll"
+        },
+        {
+          "icon": "0bbHRQM/base-emy-Forgotten.png",
+          "name": "Forgotten"
+        },
+        {
+          "icon": "ymFJzV9d/base-emy-Golden.png",
+          "name": "Golden"
+        },
+        {
+          "icon": "3mPZtFrB/base-emy-Grey.png",
+          "name": "Grey"
+        },
+        {
+          "icon": "39HmvtYB/base-emy-Orange.png",
+          "name": "Orange"
+        },
+        {
+          "icon": "8gMhs6Rw/base-emy-Recolor.png",
+          "name": "Recolor"
+        },
+        {
+          "icon": "whJVz9MZ/base-emy-Red.png",
+          "name": "Red"
+        },
+        {
+          "icon": "4Z6tQgnb/base-emy-Sailor-Fuku.png",
+          "name": "Sailor Fuku"
+        },
+        {
+          "icon": "YFQ31j4q/base-emy-Sakura.png",
+          "name": "Sakura"
+        },
+        {
+          "icon": "cXpx0bW2/base-emy-Yandere.png",
+          "name": "Yandere"
+        }
+      ]
+    },
+    "evilolif": {
+      "evilolif": [
+        {
+          "icon": "GQKg15GD/base-evilolif.png",
+          "name": "-"
+        },
+        {
+          "icon": "99H7PYMD/base-evilolif-Banana.png",
+          "name": "Banana"
+        },
+        {
+          "icon": "rRsJwJBB/base-evilolif-Battle-Mage.png",
+          "name": "Battle Mage"
+        },
+        {
+          "icon": "h18fJZp3/base-evilolif-Blue.png",
+          "name": "Blue"
+        },
+        {
+          "icon": "93H8N7jF/base-evilolif-Brown.png",
+          "name": "Brown"
+        },
+        {
+          "icon": "67Nb73gL/base-evilolif-Business.png",
+          "name": "Business"
+        },
+        {
+          "icon": "v6W3Mwtd/base-evilolif-Cloud.png",
+          "name": "Cloud"
+        },
+        {
+          "icon": "DfqPrnBM/base-evilolif-Cotton-Candy.png",
+          "name": "Cotton Candy"
+        },
+        {
+          "icon": "hJkpfMLK/base-evilolif-Cyberpunk.png",
+          "name": "Cyberpunk"
+        },
+        {
+          "icon": "C5MyKWh2/base-evilolif-Evil.png",
+          "name": "Evil"
+        },
+        {
+          "icon": "LzXqPh69/base-evilolif-Green.png",
+          "name": "Green"
+        },
+        {
+          "icon": "DDfWGcD6/base-evilolif-Ice.png",
+          "name": "Ice"
+        },
+        {
+          "icon": "Y7HDx0zk/base-evilolif-Orange.png",
+          "name": "Orange"
+        },
+        {
+          "icon": "395kgt8V/base-evilolif-Santa.png",
+          "name": "Santa"
+        },
+        {
+          "icon": "nMtRR5zb/base-evilolif-Toxic.png",
+          "name": "Toxic"
+        },
+        {
+          "icon": "23p025mp/base-evilolif-Unstable.png",
+          "name": "Unstable"
+        }
+      ]
+    },
+    "hunt": {
+      "hunt": [
+        {
+          "icon": "P0w5v2Z/base-hunt-1900-s-detective.png",
+          "name": "1900's detective"
+        },
+        {
+          "icon": "rRgzNb8B/base-hunt-Cold.png",
+          "name": "Cold"
+        },
+        {
+          "icon": "S46FD09q/base-hunt-Inverted.png",
+          "name": "Inverted"
+        },
+        {
+          "icon": "kVxbMjDR/base-hunt-Knight.png",
+          "name": "Knight"
+        },
+        {
+          "icon": "Txjk6275/base-hunt-One-Piece.png",
+          "name": "One Piece"
+        },
+        {
+          "icon": "8nYSnqR3/base-hunt-Robotic.png",
+          "name": "Robotic"
+        },
+        {
+          "icon": "6cmtS4Mh/base-hunt-Snow.png",
+          "name": "Snow"
+        },
+        {
+          "icon": "gZdSvTkj/base-hunt-Teal.png",
+          "name": "Teal"
+        },
+        {
+          "icon": "GffsJzzS/base-hunt-Tuxedo.png",
+          "name": "Tuxedo"
+        },
+        {
+          "icon": "8n63f3pX/base-hunt-Yellow-Hat.png",
+          "name": "Yellow Hat"
+        }
+      ]
+    },
+    "janko": {
+      "janko": [
+        {
+          "icon": "rGsxH6Nb/base-janko-Atrain.png",
+          "name": "Atrain"
+        },
+        {
+          "icon": "pBNjb97s/base-janko-Atrain-2.png",
+          "name": "Atrain 2"
+        },
+        {
+          "icon": "6c4V9zJs/base-janko-Golden.png",
+          "name": "Golden"
+        },
+        {
+          "icon": "PGdNxQxt/base-janko-Golden-Alt.png",
+          "name": "Golden Alt"
+        },
+        {
+          "icon": "WWVfHkQ2/base-janko-Naked.png",
+          "name": "Naked"
+        },
+        {
+          "icon": "3mKfQkGQ/base-janko-Terrorist.png",
+          "name": "Terrorist"
+        }
+      ]
+    },
+    "jonjon": {
+      "jonjon": [
+        {
+          "icon": "Tqrfywcn/base-jonjon-Alien.png",
+          "name": "Alien"
+        },
+        {
+          "icon": "4ZW5DjCC/base-jonjon-Atrain.png",
+          "name": "Atrain"
+        },
+        {
+          "icon": "N61sSg14/base-jonjon-Cool-Ninaj.png",
+          "name": "Cool Ninaj"
+        },
+        {
+          "icon": "DgT9mQhT/base-jonjon-Cotton-Candy.png",
+          "name": "Cotton Candy"
+        },
+        {
+          "icon": "sX1RLGT/base-jonjon-Demon.png",
+          "name": "Demon"
+        },
+        {
+          "icon": "MDN85htz/base-jonjon-Elegant-Black.png",
+          "name": "Elegant Black"
+        },
+        {
+          "icon": "DnLLvF9/base-jonjon-Elegant-Blue.png",
+          "name": "Elegant Blue"
+        },
+        {
+          "icon": "bRrTcjJy/base-jonjon-Elegant-Brown.png",
+          "name": "Elegant Brown"
+        },
+        {
+          "icon": "q3P2nqP7/base-jonjon-Elegant-Purple.png",
+          "name": "Elegant Purple"
+        },
+        {
+          "icon": "s9ytmh09/base-jonjon-Elegant-Teal.png",
+          "name": "Elegant Teal"
+        },
+        {
+          "icon": "DHVQmYSf/base-jonjon-King.png",
+          "name": "King"
+        },
+        {
+          "icon": "xqFSSgC1/base-jonjon-Pastel.png",
+          "name": "Pastel"
+        },
+        {
+          "icon": "r27BSjJp/base-jonjon-Purple.png",
+          "name": "Purple"
+        },
+        {
+          "icon": "xtrrs7mK/base-jonjon-Red-Gradient.png",
+          "name": "Red Gradient"
+        },
+        {
+          "icon": "VpbQxSDs/base-jonjon-Street-Gang.png",
+          "name": "Street Gang"
+        },
+        {
+          "icon": "chwgMj1R/base-jonjon-Welder.png",
+          "name": "Welder"
+        },
+        {
+          "icon": "hJDCFYPj/base-jonjon-White.png",
+          "name": "White"
+        },
+        {
+          "icon": "MkGz5Nyk/base-jonjon-White-Chocolate.png",
+          "name": "White Chocolate"
+        }
+      ]
+    },
+    "magekid": {
+      "magekid": [
+        {
+          "icon": "mF6mfwJy/base-magekid-Cotton-Candy.png",
+          "name": "Cotton Candy"
+        },
+        {
+          "icon": "3yZzcMc2/base-magekid-Dark.png",
+          "name": "Dark"
+        },
+        {
+          "icon": "hJPtDLnq/base-magekid-Fancy.png",
+          "name": "Fancy"
+        },
+        {
+          "icon": "hkmLfN2/base-magekid-Gold.png",
+          "name": "Gold"
+        },
+        {
+          "icon": "GvK4GPk1/base-magekid-Shadow.png",
+          "name": "Shadow"
+        }
+      ]
+    },
+    "nero": {
+      "nero": [
+        {
+          "icon": "fssZMHr/base-nero-Cyborg.png",
+          "name": "Cyborg"
+        },
+        {
+          "icon": "7dRB0rhc/base-nero-Devil.png",
+          "name": "Devil"
+        },
+        {
+          "icon": "JjsKvGFL/base-nero-God-of-the-sun.png",
+          "name": "God of the sun"
+        },
+        {
+          "icon": "KxGqpS86/base-nero-Godzilla.png",
+          "name": "Godzilla"
+        },
+        {
+          "icon": "jZjgt8Yg/base-nero-Gold.png",
+          "name": "Gold"
+        },
+        {
+          "icon": "Yw3DJ4R/base-nero-Grey.png",
+          "name": "Grey"
+        },
+        {
+          "icon": "CFJS7DN/base-nero-Ice-1.png",
+          "name": "Ice 1"
+        },
+        {
+          "icon": "1YLd5v7H/base-nero-Ice-2.png",
+          "name": "Ice 2"
+        },
+        {
+          "icon": "vxyV5PC7/base-nero-Ice-King.png",
+          "name": "Ice King"
+        },
+        {
+          "icon": "HTxZ3y64/base-nero-Magma.png",
+          "name": "Magma"
+        },
+        {
+          "icon": "MxDdPbPG/base-nero-Monster.png",
+          "name": "Monster"
+        },
+        {
+          "icon": "bjVMcd6L/base-nero-Pink.png",
+          "name": "Pink"
+        },
+        {
+          "icon": "VW5KhMvw/base-nero-Shadow.png",
+          "name": "Shadow"
+        }
+      ]
+    },
+    "pboi": {
+      "pboi": [
+        {
+          "icon": "PvRLnCr8/base-pboi-Cotton-Candy.png",
+          "name": "Cotton Candy"
+        }
+      ],
+      "punk": [
+        {
+          "icon": "MDDMrp77/base-punk-Cyber-Punk.png",
+          "name": "CyberPunk"
+        },
+        {
+          "icon": "8DvLGwkF/base-punk-Flaming-Punk.png",
+          "name": "Flaming Punk"
+        },
+        {
+          "icon": "TD659M12/base-punk-Luster-Punk.png",
+          "name": "Luster Punk"
+        },
+        {
+          "icon": "sdvn5gw3/base-punk-Moon-Punk.png",
+          "name": "Moon Punk"
+        },
+        {
+          "icon": "k6VGhLBN/base-punk-Neon-Alt-Punk.png",
+          "name": "Neon Alt Punk"
+        },
+        {
+          "icon": "0yFFcvbG/base-punk-Neon-Punk.png",
+          "name": "Neon Punk"
+        }
+      ]
+    },
+    "revis": {
+      "revis": [
+        {
+          "icon": "XkFZp6Jq/base-revis-Angel.png",
+          "name": "Angel"
+        },
+        {
+          "icon": "23tC7Rb8/base-revis-Blossom.png",
+          "name": "Blossom"
+        },
+        {
+          "icon": "tpvv8YRC/base-revis-Crimson.png",
+          "name": "Crimson"
+        },
+        {
+          "icon": "fYNjp9Lf/base-revis-Crimson-Moon.png",
+          "name": "Crimson Moon"
+        },
+        {
+          "icon": "G3NN2mhj/base-revis-Holy-Mage.png",
+          "name": "Holy Mage"
+        },
+        {
+          "icon": "1fgQ3sC3/base-revis-Mage.png",
+          "name": "Mage"
+        },
+        {
+          "icon": "39wVQypq/base-revis-Mahou-Shoujo.png",
+          "name": "Mahou Shoujo"
+        },
+        {
+          "icon": "Dc6fDtY/base-revis-Moon.png",
+          "name": "Moon"
+        },
+        {
+          "icon": "7tbW9pF0/base-revis-Snow-Queen.png",
+          "name": "Snow Queen"
+        },
+        {
+          "icon": "zT55YBtg/base-revis-Stereotypical-Witch.png",
+          "name": "Stereotypical Witch"
+        }
+      ]
+    },
+    "samrival": {
+      "samrival": [
+        {
+          "icon": "Zpj2Dg3p/base-samrival-Atrain.png",
+          "name": "Atrain"
+        },
+        {
+          "icon": "hFd3G7S6/base-samrival-Blonde.png",
+          "name": "Blonde"
+        },
+        {
+          "icon": "rGFgZ3Gw/base-samrival-Bloodlust.png",
+          "name": "Bloodlust"
+        },
+        {
+          "icon": "h1198kKb/base-samrival-Diamond-Tek.png",
+          "name": "Diamond Tek"
+        },
+        {
+          "icon": "9HC6XVC7/base-samrival-Fire.png",
+          "name": "Fire"
+        },
+        {
+          "icon": "KxTr0MRW/base-samrival-Ghotic.png",
+          "name": "Ghotic"
+        },
+        {
+          "icon": "Kxr2gycz/base-samrival-Gold.png",
+          "name": "Gold"
+        },
+        {
+          "icon": "81FRsN4/base-samrival-Golden-Katana.png",
+          "name": "Golden Katana"
+        },
+        {
+          "icon": "kpLt7FZ/base-samrival-Green-Phoenix.png",
+          "name": "Green Phoenix"
+        },
+        {
+          "icon": "4b9mCFf/base-samrival-Malenia.png",
+          "name": "Malenia"
+        },
+        {
+          "icon": "tpfXB5jB/base-samrival-Moon.png",
+          "name": "Moon"
+        },
+        {
+          "icon": "WN0H99vK/base-samrival-Sun-Samurai.png",
+          "name": "Sun Samurai"
+        },
+        {
+          "icon": "r2RZKgCf/base-samrival-Teal.png",
+          "name": "Teal"
+        },
+        {
+          "icon": "C5D60hSY/base-samrival-Water.png",
+          "name": "Water"
+        }
+      ]
+    },
+    "samurai": {
+      "samurai": [
+        {
+          "icon": "TxYZ9Jwg/base-samurai-403.png",
+          "name": "403"
+        },
+        {
+          "icon": "WW75WCmv/base-samurai-Blue.png",
+          "name": "Blue"
+        },
+        {
+          "icon": "F4hwkzBj/base-samurai-Emerald.png",
+          "name": "Emerald"
+        },
+        {
+          "icon": "vCLdD9cn/base-samurai-Golden.png",
+          "name": "Golden"
+        },
+        {
+          "icon": "Cgzy3MS/base-samurai-Lightning.png",
+          "name": "Lightning"
+        },
+        {
+          "icon": "mrzDszfV/base-samurai-Purple-Golden.png",
+          "name": "Purple Golden"
+        },
+        {
+          "icon": "4njs7MRY/base-samurai-Sun.png",
+          "name": "Sun"
+        },
+        {
+          "icon": "vCw8Wghk/base-samurai-Toxic.png",
+          "name": "Toxic"
+        },
+        {
+          "icon": "3mQZ1r94/base-samurai-Truffle.png",
+          "name": "Truffle"
+        },
+        {
+          "icon": "fzs5Q5Wt/base-samurai-Vampiric.png",
+          "name": "Vampiric"
+        }
+      ]
+    },
+    "sniper": {
+      "sniper": [
+        {
+          "icon": "m5hsHgq9/base-sniper-Alucard.png",
+          "name": "Alucard"
+        },
+        {
+          "icon": "LhSvN33D/base-sniper-Cowboy.png",
+          "name": "Cowboy"
+        },
+        {
+          "icon": "t1ZdpHL/base-sniper-Magma.png",
+          "name": "Magma"
+        },
+        {
+          "icon": "hxnVH22Q/base-sniper-Police.png",
+          "name": "Police"
+        },
+        {
+          "icon": "4wCmfwyh/base-sniper-Unknown.png",
+          "name": "Unknown"
+        }
+      ]
+    },
+    "zetoman": {
+      "zetoman": [
+        {
+          "icon": "8g5gTBm7/base-zetoman-Dark.png",
+          "name": "Dark"
+        },
+        {
+          "icon": "XxbRjJCv/base-zetoman-Diamond.png",
+          "name": "Diamond"
+        },
+        {
+          "icon": "8gRkv24z/base-zetoman-Elite-Agent.png",
+          "name": "Elite Agent"
+        },
+        {
+          "icon": "ccSmHQdQ/base-zetoman-Killing-Machine.png",
+          "name": "Killing Machine"
+        },
+        {
+          "icon": "d0fgzX04/base-zetoman-Rusty.png",
+          "name": "Rusty"
+        },
+        {
+          "icon": "ymB7gPN4/base-zetoman-Shadow-Reaper.png",
+          "name": "Shadow Reaper"
+        },
+        {
+          "icon": "JjJJ3fCB/base-zetoman-Stardust.png",
+          "name": "Stardust"
+        },
+        {
+          "icon": "6JtR3t8F/base-zetoman-Stardust-2.png",
+          "name": "Stardust 2"
+        },
+        {
+          "icon": "MymWyCB9/base-zetoman-Sun.png",
+          "name": "Sun"
+        },
+        {
+          "icon": "ccCmjTV5/base-zetoman-The-Cold-Hero.png",
+          "name": "The Cold Hero"
+        },
+        {
+          "icon": "bfPQ0CY/base-zetoman-The-Ghost.png",
+          "name": "The Ghost"
+        }
+      ]
+    },
+    "punk": {
+      "punk": [
+        {
+          "icon": "MDDMrp77/base-punk-Cyber-Punk.png",
+          "name": "CyberPunk"
+        },
+        {
+          "icon": "8DvLGwkF/base-punk-Flaming-Punk.png",
+          "name": "Flaming Punk"
+        },
+        {
+          "icon": "TD659M12/base-punk-Luster-Punk.png",
+          "name": "Luster Punk"
+        },
+        {
+          "icon": "sdvn5gw3/base-punk-Moon-Punk.png",
+          "name": "Moon Punk"
+        },
+        {
+          "icon": "k6VGhLBN/base-punk-Neon-Alt-Punk.png",
+          "name": "Neon Alt Punk"
+        },
+        {
+          "icon": "0yFFcvbG/base-punk-Neon-Punk.png",
+          "name": "Neon Punk"
+        }
+      ]
+    }
+  },
+  "previewIcons": {
+    "bazooka": {
+      "bazooka": "DfjgXMPv/base-bazooka-custom.png"
+    },
+    "bigb": {
+      "bigb": "Kjr90c0C/base-bigb-custom.png"
+    },
+    "dai": {
+      "dai": "G43tTC90/base-dai-custom.png"
+    },
+    "emy": {
+      "emy": "hbZ9LZp/base-emy-custom.png"
+    },
+    "evilolif": {
+      "evilolif": "Y6LLvC9/base-evilolif-custom.png"
+    },
+    "hunt": {
+      "hunt": "zh4wBgBN/base-hunt-custom.png"
+    },
+    "janko": {
+      "janko": "xKCwLbYG/base-janko-custom.png"
+    },
+    "jonjon": {
+      "jonjon": "7xyGz8LV/base-jonjon-custom.png"
+    },
+    "magekid": {
+      "magekid": "pj7WsqrL/base-magekid-custom.png"
+    },
+    "nero": {
+      "nero": "S4NMMQ2N/base-nero-custom.png"
+    },
+    "pboi": {
+      "pboi": "FcqX00z/base-pboi-custom.png",
+      "punk": "ycyDLzF0/base-punk-custom.png"
+    },
+    "revis": {
+      "revis": "rGpg5h3p/base-revis-custom.png"
+    },
+    "samrival": {
+      "samrival": "Z6Y9zxXZ/base-samrival-custom.png"
+    },
+    "samurai": {
+      "samurai": "6cTm9xzZ/base-samurai-custom.png"
+    },
+    "sniper": {
+      "sniper": "dsHcXWDY/base-sniper-custom.png"
+    },
+    "zetoman": {
+      "zetoman": "zWYFp7Gw/base-zetoman-custom.png"
+    }
+  }
+}
