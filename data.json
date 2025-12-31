@@ -580,19 +580,19 @@
         },
         {
           "icon": "VZCM5NB/base-bigb-elpenpro.png",
-          "name": "God"
+          "name": "elpenpro"
         },
         {
           "icon": "sv5PR229/base-bigb-God.png",
-          "name": "Mafia"
+          "name": "God"
         },
         {
           "icon": "RGp3VxzB/base-bigb-Mafia.png",
-          "name": "Stone"
+          "name": "Mafia"
         },
         {
           "icon": "BK3nhytb/base-bigb-Stone.png",
-          "name": "elpenpro"
+          "name": "Stone"
         }
       ]
     },
