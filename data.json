@@ -138,7 +138,8 @@
         "rGCb4Djw/jonjon-Street-Gang.png",
         "bg4x2ztZ/jonjon-Welder.png",
         "q3R1r90k/jonjon-White.png",
-        "q3ptqskf/jonjon-White-Chocolate.png"
+        "q3ptqskf/jonjon-White-Chocolate.png",
+        "FqY0RThh/jonjon-Ice.png"
       ]
     },
     "magekid": {
@@ -969,6 +970,10 @@
         {
           "icon": "MkGz5Nyk/base-jonjon-White-Chocolate.png",
           "name": "White Chocolate"
+        },
+        {
+          "icon": "9mBR793B/base-jonjon-Ice.png",
+          "name": "Ice"
         }
       ]
     },
